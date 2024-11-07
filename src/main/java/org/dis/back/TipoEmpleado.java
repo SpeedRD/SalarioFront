@@ -1,4 +1,4 @@
-package com.ufv.dis;
+package org.dis.back;
 
 public class TipoEmpleado {
     public static final String VENDEDOR = "vendedor";
